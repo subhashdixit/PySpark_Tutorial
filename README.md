@@ -1,4 +1,3 @@
-# Food_Delivery_Time_Prediction_End_to_End_ML_Project
 
 ## Commands for virtual environment:
  1. To create new virtual environment:
